@@ -19,6 +19,7 @@ class NewPost extends Component {
     }
 
     render () {
+        console.log("NEW POST")
         return (
             <div className="NewPost">
                 <h1>Add a Post</h1>
